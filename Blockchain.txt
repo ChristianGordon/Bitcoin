@@ -1,0 +1,2 @@
+#stores the block chain in this file
+#neads read/write

@@ -1,0 +1,1 @@
+Stores unconfirmed transactions/balances
